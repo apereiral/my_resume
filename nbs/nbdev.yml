@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "my_resume"
+  site-url: "https://apereiral.github.io/my_resume"
+  description: "A quick and visual summary of my career so far."
+  repo-branch: main
+  repo-url: "https://github.com/apereiral/my_resume"
