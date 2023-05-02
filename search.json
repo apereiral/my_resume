@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my_resume",
+    "section": "",
+    "text": "Principal Researcher coordinating a team of 12 to investigate AI solutions for the detection and mapping of assets in urban electrical grids.\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Researcher coordinating a team of 10 to investigate AI solutions for the detection, tracking and recognition of products in supermarkets with the goal of developing cashierless options for such stores.\n\n\n\n\n\n\n\n\n\n\n\nResearch consultant in AI solutions for facial detection and recognition, person re-identification and facial spoofing detection.\nOverviewed the development of significantly less biased face detection and recognition datasets and SOTA models in the context of the Brazilian population.\n\n\n\n\n\n\n\n\n\n\n\nLead AI Researcher in a team of 4 developing solutions for image and lidar point cloud instance segmentation for posts, wire and tree mapping on urban electrical grids.\nDeveloped the algorithm for lidar-camera calibration with the open3d library and overviewed the development of instance segmentation models with the detectron2 library.\nInterfaced with the Big Data and the Hardware teams to coordinate the system integration of the pipeline, from data collection, to model training, to model serving with the mapped components of the grids.\nProject awarded nationally (BRACIER) and internationally (CIER)"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "my_resume",
+    "section": "",
+    "text": "Principal Researcher coordinating a team of 12 to investigate AI solutions for the detection and mapping of assets in urban electrical grids.\n\n\n\n\n\n\n\n\n\n\n\nPrincipal Researcher coordinating a team of 10 to investigate AI solutions for the detection, tracking and recognition of products in supermarkets with the goal of developing cashierless options for such stores.\n\n\n\n\n\n\n\n\n\n\n\nResearch consultant in AI solutions for facial detection and recognition, person re-identification and facial spoofing detection.\nOverviewed the development of significantly less biased face detection and recognition datasets and SOTA models in the context of the Brazilian population.\n\n\n\n\n\n\n\n\n\n\n\nLead AI Researcher in a team of 4 developing solutions for image and lidar point cloud instance segmentation for posts, wire and tree mapping on urban electrical grids.\nDeveloped the algorithm for lidar-camera calibration with the open3d library and overviewed the development of instance segmentation models with the detectron2 library.\nInterfaced with the Big Data and the Hardware teams to coordinate the system integration of the pipeline, from data collection, to model training, to model serving with the mapped components of the grids.\nProject awarded nationally (BRACIER) and internationally (CIER)"
+  },
+  {
+    "objectID": "index.html#awards-and-publications",
+    "href": "index.html#awards-and-publications",
+    "title": "my_resume",
+    "section": "Awards and Publications",
+    "text": "Awards and Publications\n\nPaper: Predicting Diabetes Disease Evolution Using Financial Records and Recurrent Neural Networks\n\nAccepted as a digital poster to the NeurIPS 2019 ML4H Workshop.\nFull paper in arxiv.\n\n\n\nAward: RSNA Pneumonia Detection Challenge\n\nFinished 4th in Kaggle competition to detect and locate pneumonia on chest X-rays.\nResults published in a poster at the RSNA 2018 conference.\n\n\n\nAward: RSNA Pediatric Bone Age Challenge\n\nFinished 3rd in a contest to determine skeletal age from pediatric hand X-rays.\nDeveloped a novel CNN architecture module, a network with 1% of the size of the other contestants’ networks and didn’t use any pre-trained weights.\nResults published in a poster at the RSNA 2017 conference and in an article at the RSNA Radiology Journal.\nVideo of the talk given during the award ceremony."
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "my_resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nFull Professor at Universidade Federal de Goiás (UFG)\n\nTimeline: Jan/2021 - ongoing\n\nSelected in a competitive selective process to join the group of Professors responsible for starting the first undergraduate major on AI in Brazil and one of its biggest AI research centers (CEIA).\n\n\n\n\nResearcher and Teaching Assistant at UFG\n\nTimeline: Aug/2017 - Dec/2020\n\nDeveloped and managed a graduate level full semester course with approximately 20 students on Deep Learning for Computer Vision (github and youtube).\nTA for 3 Deep Learning classes of approximately 30 graduate students each (+ online students)(youtube).\nSpeaker at the Deep Learning Brasil Summer School 2018 lecturing students and professors from institutions all around the country on CNNs (github and youtube)."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "my_resume",
+    "section": "Education",
+    "text": "Education\n\nUniversidade Federal de Goiás (UFG), M.S. (2020) and Ph.D. (in progress) in Computer Science, Brazil\nInstituto Tecnológico de Aeronáutica (ITA), B.S. (2014) in Electronic Engineering, Brazil\nRose-Hulman Institute of Technology (RHIT), Exchange student (2012-2013) in Computer Engineering, USA"
+  }
+]
